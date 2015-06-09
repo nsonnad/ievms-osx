@@ -53,3 +53,6 @@ ie11-win7: IE10.Win7/ie11-win7.ova
 
 ie11-win8: IE10.Win7/ie10-win7.ova
 	VBoxManage import $<
+
+clean:
+	rm -rf tmp
