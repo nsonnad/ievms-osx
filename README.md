@@ -25,5 +25,5 @@ Or you can just run
 
     make
 
-to build all four versions. Each make target will automatically import your
+to build all versions. Each make target will automatically import your
 VM into VirtualBox.
