@@ -4,7 +4,7 @@ OSX/VirtualBox, for various versions of IE and Windows.
 ### Dependencies:
 
 * VirtualBox
-* requires the command line tool [unar][1] because Microsoft's zips are in some
+* requires the command line tool [unar][https://unarchiver.c3.cx/commandline] because Microsoft's zips are in some
 newfangled Zip64 format, which is not supported by OSX's default `unzip`
 command.
 
@@ -27,5 +27,3 @@ Or you can just run
 
 to build all four versions. Each make target will automatically import your
 VM into VirtualBox.
-
-[1] https://unarchiver.c3.cx/commandline
