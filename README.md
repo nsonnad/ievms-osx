@@ -20,6 +20,7 @@ Make the VM you want for a particular IE/Windows combination. The targets are:
     make ie10-win8
     make ie11-win7
     make ie11-win8
+    make edge-win10
 
 Or you can just run
 
